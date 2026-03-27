@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardapio>
+    <prato id="">
+        <nome></nome>
+        <descricao></descricao>
+        <ingredientes></ingredientes>
+        <preco></preco>
+        <calorias></calorias>
+        <tempoPreparo></tempoPreparo>
+    </prato>
+</cardapio>
