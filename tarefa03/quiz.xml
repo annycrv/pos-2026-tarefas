@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE quiz SYSTEM "quiz.dtd">
+<quiz versao="matematica">
+    <disciplina>Matemática</disciplina>
+    <professor>
+        <nome>Marconi</nome>
+        <matrícula>435627</matrícula>
+    </professor>
+    <turma>informática</turma>
+    <data>20/04/2026</data>
+    <questões>
+        <questão>
+            <enunciado>Quanto é 1+1</enunciado>
+            <pontuação>20</pontuação>
+            <alternativas>
+                <alternativa correta="sim">2</alternativa>
+                <alternativa correta="nao">4</alternativa>
+                <alternativa correta="nao">6</alternativa>
+                <alternativa correta="sim">raiz de 4</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Quanto é 3+3</enunciado>
+            <pontuação>20</pontuação>
+            <alternativas>
+                <alternativa correta="nao">8</alternativa>
+                <alternativa correta="nao">7</alternativa>
+                <alternativa correta="nao">9</alternativa>
+                <alternativa correta="sim">6</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Qual a raiz de 36</enunciado>
+            <pontuação>20</pontuação>
+            <alternativas>
+                <alternativa correta="sim">6</alternativa>
+                <alternativa correta="nao">8</alternativa>
+                <alternativa correta="sim">3+3</alternativa>
+                <alternativa correta="sim">2+2+2</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Quanto é 4+4</enunciado>
+            <pontuação>20</pontuação>
+            <alternativas>
+                <alternativa correta="nao">14</alternativa>
+                <alternativa correta="nao">16</alternativa>
+                <alternativa correta="nao">7</alternativa>
+                <alternativa correta="nao">9</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Qual propriedade matemática usa esse símbolo "+"</enunciado>
+            <pontuação>20</pontuação>
+            <alternativas>
+                <alternativa correta="sim">adição</alternativa>
+                <alternativa correta="nao">subtração</alternativa>
+                <alternativa correta="nao">multiplicação</alternativa>
+                <alternativa correta="nao">divisão</alternativa>
+            </alternativas>
+        </questão>
+    </questões>
+</quiz>

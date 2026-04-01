@@ -1,11 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE cardapio SYSTEM "definicoes.dtd">
 <cardapio>
-    <prato id="">
-        <nome></nome>
-        <descricao></descricao>
-        <ingredientes></ingredientes>
-        <preco></preco>
-        <calorias></calorias>
-        <tempoPreparo></tempoPreparo>
+    <prato id="Pr1">
+        <nome>Macarrão</nome>
+        <descricao>Massa Cozida</descricao>
+        <ingredientes>
+            <ingrediente>Massa</ingrediente>
+            <ingrediente>Cebola</ingrediente>
+            <ingrediente>Colorau</ingrediente>
+        </ingredientes>
+        <preco moeda="BRL">&reais; 10,00</preco>
+        <calorias>200kcal</calorias>
+        <tempoPreparo>10 minutos</tempoPreparo>
+    </prato>
+    <prato id="Pr2">
+        <nome>Arroz</nome>
+        <descricao>Arroz cozinhado</descricao>
+        <ingredientes>
+            <ingrediente>Arroz</ingrediente>
+            <ingrediente>Cenoura</ingrediente>
+            <ingrediente>Alho</ingrediente>
+        </ingredientes>
+        <preco moeda="BRL">&reais; 25,00</preco>
+        <calorias>150kcal</calorias>
+        <tempoPreparo>20 minutos</tempoPreparo>
+    </prato>
+    <prato id="Pr3">
+        <nome>Feijão</nome>
+        <descricao>Feijão Cozido</descricao>
+        <ingredientes>
+            <ingrediente>Feijão</ingrediente>
+            <ingrediente>Cebola</ingrediente>
+            <ingrediente>Alho</ingrediente>
+        </ingredientes>
+        <preco moeda="BRL">&reais; 10,00</preco>
+        <calorias>160kcal</calorias>
+        <tempoPreparo>20 minutos</tempoPreparo>
+    </prato>
+    <prato id="Pr4">
+        <nome>Creme de Frango</nome>
+        <descricao>Frango cozido ao creme</descricao>
+        <ingredientes>
+            <ingrediente>Frango</ingrediente>
+            <ingrediente>Creme de Leite</ingrediente>
+            <ingrediente>Dueto</ingrediente>
+            <ingrediente>Farinha</ingrediente>
+        </ingredientes>
+        <preco moeda="BRL">&reais; 20,00</preco>
+        <calorias>300kcal</calorias>
+        <tempoPreparo>30 minutos</tempoPreparo>
+    </prato>
+    <prato id="Pr5">
+        <nome>Pão</nome>
+        <descricao>Pão assado</descricao>
+        <ingredientes>
+            <ingrediente>Farinha</ingrediente>
+            <ingrediente>Fermento Biológico</ingrediente>
+            <ingrediente>Sal</ingrediente>
+            <ingrediente>Açúcar</ingrediente>
+        </ingredientes>
+        <preco moeda="BRL">&reais; 0,50</preco>
+        <calorias>150kcal</calorias>
+        <tempoPreparo>1 hora e 30 minutos</tempoPreparo>
     </prato>
 </cardapio>
