@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<imobiliaria xmlns="http://imobiliaria.org" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://imobiliaria.org imobiliaria.xsd">
+
+    <imovel>
+        <descricao>Uma casa bem bonita</descricao>
+        <proprietario>
+            <nome>Anny</nome>
+            <email>c.anny@gmail</email>
+            <telefone></telefone>
+        </proprietario>
+        <endereco>
+            <rua>Antonio de Souza</rua>
+            <bairro>Juremal</bairro>
+            <cidade>Santa Maria</cidade>
+            <número>64</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>Grande</tamanho>
+            <numQuartos>4</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>100.000</valor>
+    </imovel>
+    <imovel>
+        <descricao>Uma casa +/-</descricao>
+        <proprietario>
+            <nome>Diego</nome>
+            <email></email>
+            <telefone>84999999999</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Minas Gerais</rua>
+            <bairro>Vilar</bairro>
+            <cidade>Macaíba</cidade>
+            <número>43</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>Pequena</tamanho>
+            <numQuartos>1</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>20.000</valor>
+    </imovel>
+    <imovel>
+        <descricao>Apartamento</descricao>
+        <proprietario>
+            <nome>Carolline</nome>
+            <email></email>
+            <telefone>84992222222</telefone>
+        </proprietario>
+        <endereco>
+            <rua>São Paulo</rua>
+            <bairro>Alto São Francisco</bairro>
+            <cidade>Parnamirim</cidade>
+            <número>53</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>Médio</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>40.000</valor>
+    </imovel>
+    <imovel>
+        <descricao>Casa Legal</descricao>
+        <proprietario>
+            <nome>Cirilo</nome>
+            <email>cirilo@gmail.com</email>
+            <telefone>84888888888</telefone>
+            <telefone>84555555555</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Santo Antônio</rua>
+            <bairro>Emaús</bairro>
+            <cidade>Natal</cidade>
+            <número>3</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>Médio</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>50.0000</valor>
+    </imovel>
+    <imovel>
+        <descricao>Apartamento</descricao>
+        <proprietario>
+            <nome>Fernanda</nome>
+            <email></email>
+            <telefone>84777777777</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Americana</rua>
+            <bairro>Havan</bairro>
+            <cidade>Natal</cidade>
+            <número>345</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>Grande</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>70.000</valor>
+    </imovel>
+</imobiliaria>

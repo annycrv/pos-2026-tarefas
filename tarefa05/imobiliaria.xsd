@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+    xmlns:c="http://imobiliaria.org"
+    targetNamespace="http://imobiliaria.org"
+    elementFormDefault="qualified"> 
+
+    <element name="número">
+        <simpleType>
+            <restriction base="integer"/>
+        </simpleType>
+    </element>
+
+    <element name="numQuartos">
+        <simpleType>
+            <restriction base="integer"/>
+        </simpleType>
+    </element>
+
+    <element name="numBanheiros">
+        <simpleType>
+            <restriction base="integer"/>
+        </simpleType>
+    </element>
+
+    <element name="tamanho">
+        <simpleType>
+            <restriction base="decimal"/>
+        </simpleType>
+    </element>
+
+    <element name="rua" type="string"/>
+
+    <element name="bairro" type="string"/>
+
+    <element name="cidade" type="string"/>
+
+    <element name="descricao" type="string"/>
+
+    <element name="valor" type="string"/>
+
+</schema>
