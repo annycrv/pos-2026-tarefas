@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<imobiliaria xmlns="http://imobiliaria.org" 
+<imobiliária xmlns="http://imobiliaria.org" 
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://imobiliaria.org imobiliaria.xsd">
 
@@ -7,8 +7,8 @@
         <descricao>Uma casa bem bonita</descricao>
         <proprietario>
             <nome>Anny</nome>
-            <email>c.anny@gmail</email>
-            <telefone></telefone>
+            <email></email>
+            <telefone>84999565133</telefone>
         </proprietario>
         <endereco>
             <rua>Antonio de Souza</rua>
@@ -17,7 +17,7 @@
             <número>64</número>
         </endereco>
         <caracteristicas>
-            <tamanho>Grande</tamanho>
+            <tamanho>20.5</tamanho>
             <numQuartos>4</numQuartos>
             <numBanheiros>2</numBanheiros>
         </caracteristicas>
@@ -27,8 +27,9 @@
         <descricao>Uma casa +/-</descricao>
         <proprietario>
             <nome>Diego</nome>
-            <email></email>
-            <telefone>84999999999</telefone>
+            <email>diego@gmail.com</email>
+            <telefone>84933241322</telefone>
+            <telefone>84667841322</telefone>
         </proprietario>
         <endereco>
             <rua>Minas Gerais</rua>
@@ -37,7 +38,7 @@
             <número>43</número>
         </endereco>
         <caracteristicas>
-            <tamanho>Pequena</tamanho>
+            <tamanho>5.7</tamanho>
             <numQuartos>1</numQuartos>
             <numBanheiros>1</numBanheiros>
         </caracteristicas>
@@ -57,7 +58,7 @@
             <número>53</número>
         </endereco>
         <caracteristicas>
-            <tamanho>Médio</tamanho>
+            <tamanho>13.5</tamanho>
             <numQuartos>2</numQuartos>
             <numBanheiros>1</numBanheiros>
         </caracteristicas>
@@ -78,7 +79,7 @@
             <número>3</número>
         </endereco>
         <caracteristicas>
-            <tamanho>Médio</tamanho>
+            <tamanho>15.3</tamanho>
             <numQuartos>2</numQuartos>
             <numBanheiros>1</numBanheiros>
         </caracteristicas>
@@ -95,13 +96,12 @@
             <rua>Americana</rua>
             <bairro>Havan</bairro>
             <cidade>Natal</cidade>
-            <número>345</número>
         </endereco>
         <caracteristicas>
-            <tamanho>Grande</tamanho>
+            <tamanho>21.4</tamanho>
             <numQuartos>3</numQuartos>
             <numBanheiros>2</numBanheiros>
         </caracteristicas>
         <valor>70.000</valor>
     </imovel>
-</imobiliaria>
+</imobiliária>

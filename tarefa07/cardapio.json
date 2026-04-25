@@ -1,0 +1,98 @@
+{
+  "cardapio": {
+    "prato": [
+      {
+        "id": "Pr1",
+        "nome": "Macarrão",
+        "descricao": "Massa Cozida",
+        "ingredientes": {
+          "ingrediente": [
+            "Massa",
+            "Cebola",
+            "Colorau"
+          ]
+        },
+        "preco": {
+          "moeda": "BRL",
+          "valor": "R$ 10,00"
+        },
+        "calorias": "200kcal",
+        "tempoPreparo": "10 minutos"
+      },
+      {
+        "id": "Pr2",
+        "nome": "Arroz",
+        "descricao": "Arroz cozinhado",
+        "ingredientes": {
+          "ingrediente": [
+            "Arroz",
+            "Cenoura",
+            "Alho"
+          ]
+        },
+        "preco": {
+          "moeda": "BRL",
+          "valor": "R$ 25,00"
+        },
+        "calorias": "150kcal",
+        "tempoPreparo": "20 minutos"
+      },
+      {
+        "id": "Pr3",
+        "nome": "Feijão",
+        "descricao": "Feijão Cozido",
+        "ingredientes": {
+          "ingrediente": [
+            "Feijão",
+            "Cebola",
+            "Alho"
+          ]
+        },
+        "preco": {
+          "moeda": "BRL",
+          "valor": "R$ 10,00"
+        },
+        "calorias": "160kcal",
+        "tempoPreparo": "20 minutos"
+      },
+      {
+        "id": "Pr4",
+        "nome": "Creme de Frango",
+        "descricao": "Frango cozido ao creme",
+        "ingredientes": {
+          "ingrediente": [
+            "Frango",
+            "Creme de Leite",
+            "Dueto",
+            "Farinha"
+          ]
+        },
+        "preco": {
+          "moeda": "BRL",
+          "valor": "R$ 20,00"
+        },
+        "calorias": "300kcal",
+        "tempoPreparo": "30 minutos"
+      },
+      {
+        "id": "Pr5",
+        "nome": "Pão",
+        "descricao": "Pão assado",
+        "ingredientes": {
+          "ingrediente": [
+            "Farinha",
+            "Fermento Biológico",
+            "Sal",
+            "Açúcar"
+          ]
+        },
+        "preco": {
+          "moeda": "BRL",
+          "valor": "R$ 0,50"
+        },
+        "calorias": "150kcal",
+        "tempoPreparo": "1 hora e 30 minutos"
+      }
+    ]
+  }
+}

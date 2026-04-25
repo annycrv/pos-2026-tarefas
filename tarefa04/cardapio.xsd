@@ -4,12 +4,6 @@
     targetNamespace="http://cardapio.org"
     elementFormDefault="qualified">
 
-    <element name="calorias">
-        <simpleType>
-            <restriction base="integer"/>
-        </simpleType>
-    </element>
-
     <element name="preco">
         <simpleType>
             <restriction base="decimal">
@@ -18,14 +12,12 @@
         </simpleType>
     </element>
 
+    <element name="calorias" type="integer"/>
     <element name="nome" type="string"/>
-
     <element name="descricao" type="string"/>
-
     <element name="tempoPreparo" type="string"/>
-
     <element name="ingrediente" type="string"/>
-
+    
     <element name="ingredientes">
         <complexType>
             <sequence>

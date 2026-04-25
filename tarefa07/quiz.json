@@ -1,0 +1,124 @@
+{
+  "quiz": {
+    "versao": "matematica",
+    "disciplina": "Matemática",
+    "professor": {
+      "nome": "Marconi",
+      "matricula": "435627"
+    },
+    "turma": "informática",
+    "data": "20/04/2026",
+    "questoes": [
+      {
+        "enunciado": "Quanto é 1+1",
+        "pontuacao": 20,
+        "alternativas": [
+          {
+            "correta": "sim",
+            "texto": "2"
+          },
+          {
+            "correta": "nao",
+            "texto": "4"
+          },
+          {
+            "correta": "nao",
+            "texto": "6"
+          },
+          {
+            "correta": "sim",
+            "texto": "raiz de 4"
+          }
+        ]
+      },
+      {
+        "enunciado": "Quanto é 3+3",
+        "pontuacao": 20,
+        "alternativas": [
+          {
+            "correta": "nao",
+            "texto": "8"
+          },
+          {
+            "correta": "nao",
+            "texto": "7"
+          },
+          {
+            "correta": "nao",
+            "texto": "9"
+          },
+          {
+            "correta": "sim",
+            "texto": "6"
+          }
+        ]
+      },
+      {
+        "enunciado": "Qual a raiz de 36",
+        "pontuacao": 20,
+        "alternativas": [
+          {
+            "correta": "sim",
+            "texto": "6"
+          },
+          {
+            "correta": "nao",
+            "texto": "8"
+          },
+          {
+            "correta": "sim",
+            "texto": "3+3"
+          },
+          {
+            "correta": "sim",
+            "texto": "2+2+2"
+          }
+        ]
+      },
+      {
+        "enunciado": "Quanto é 4+4",
+        "pontuacao": 20,
+        "alternativas": [
+          {
+            "correta": "nao",
+            "texto": "14"
+          },
+          {
+            "correta": "nao",
+            "texto": "16"
+          },
+          {
+            "correta": "nao",
+            "texto": "7"
+          },
+          {
+            "correta": "nao",
+            "texto": "9"
+          }
+        ]
+      },
+      {
+        "enunciado": "Qual propriedade matemática usa esse símbolo \"+\"",
+        "pontuacao": 20,
+        "alternativas": [
+          {
+            "correta": "sim",
+            "texto": "adição"
+          },
+          {
+            "correta": "nao",
+            "texto": "subtração"
+          },
+          {
+            "correta": "nao",
+            "texto": "multiplicação"
+          },
+          {
+            "correta": "nao",
+            "texto": "divisão"
+          }
+        ]
+      }
+    ]
+  }
+}
