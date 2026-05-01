@@ -1,0 +1,111 @@
+[
+    {
+        "descricao": "Uma casa bem bonita",
+        "proprietario": {
+            "nome": "Anny",
+            "telefones": [],
+            "email": "c.anny@gmail"
+        },
+        "endereco": {
+            "rua": "Antonio de Souza",
+            "bairro": "Juremal",
+            "cidade": "Santa Maria",
+            "numero": "64"
+        },
+        "caracteristicas": {
+            "tamanho": "Grande",
+            "numQuartos": "4",
+            "numBanheiros": "2"
+        },
+        "valor": "100.000"
+    },
+    {
+        "descricao": "Uma casa +/-",
+        "proprietario": {
+            "nome": "Diego",
+            "telefones": [
+                "84999999999"
+            ],
+            "email": null
+        },
+        "endereco": {
+            "rua": "Minas Gerais",
+            "bairro": "Vilar",
+            "cidade": "Maca\u00edba",
+            "numero": "43"
+        },
+        "caracteristicas": {
+            "tamanho": "Pequena",
+            "numQuartos": "1",
+            "numBanheiros": "1"
+        },
+        "valor": "20.000"
+    },
+    {
+        "descricao": "Apartamento",
+        "proprietario": {
+            "nome": "Carolline",
+            "telefones": [
+                "84992222222"
+            ],
+            "email": null
+        },
+        "endereco": {
+            "rua": "S\u00e3o Paulo",
+            "bairro": "Alto S\u00e3o Francisco",
+            "cidade": "Parnamirim",
+            "numero": "53"
+        },
+        "caracteristicas": {
+            "tamanho": "M\u00e9dio",
+            "numQuartos": "2",
+            "numBanheiros": "1"
+        },
+        "valor": "40.000"
+    },
+    {
+        "descricao": "Casa Legal",
+        "proprietario": {
+            "nome": "Cirilo",
+            "telefones": [
+                "84888888888",
+                "84555555555"
+            ],
+            "email": "cirilo@gmail.com"
+        },
+        "endereco": {
+            "rua": "Santo Ant\u00f4nio",
+            "bairro": "Ema\u00fas",
+            "cidade": "Natal",
+            "numero": null
+        },
+        "caracteristicas": {
+            "tamanho": "M\u00e9dio",
+            "numQuartos": "2",
+            "numBanheiros": "1"
+        },
+        "valor": "50.0000"
+    },
+    {
+        "descricao": "Apartamento",
+        "proprietario": {
+            "nome": "Fernanda",
+            "telefones": [
+                "84777777777"
+            ],
+            "email": null
+        },
+        "endereco": {
+            "rua": "Americana",
+            "bairro": "Havan",
+            "cidade": "Natal",
+            "numero": "345"
+        },
+        "caracteristicas": {
+            "tamanho": "Grande",
+            "numQuartos": "3",
+            "numBanheiros": "2"
+        },
+        "valor": "70.000"
+    }
+]
