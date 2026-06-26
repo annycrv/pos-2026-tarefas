@@ -12,7 +12,7 @@ api_url = "https://suap.ifrn.edu.br/api/"
 # token = response.json()["access"]
 # print(response.json())
 
-token =
+token = ""
 headers = {
     "Authorization": f'Bearer {token}'
 }
@@ -26,6 +26,6 @@ response = requests.get(url, headers=headers)
 
 disciplinas = response.json()["results"]
 for disciplina in disciplinas:
-    print(f"{disciplina["disciplina"]:<70} - {disciplina["nota_etapa_1"]["nota"]} - {disciplina["nota_etapa_2"]["nota"]} - {disciplina["nota_etapa_3"]["nota"]} - {disciplina["nota_etapa_4"]["nota"]}")
+    print(f"{disciplina['disciplina']:<70} - {disciplina['nota_etapa_1']['nota']} - {disciplina['nota_etapa_2']['nota']} - {disciplina['nota_etapa_3']['nota']} - {disciplina['nota_etapa_4']['nota']}")
 
 print(response)
