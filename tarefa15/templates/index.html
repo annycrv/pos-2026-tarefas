@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+
+{% block conteudo %}
+
+<div class="row justify-content-center">
+
+    <div class="col-lg-8">
+
+        <div class="card shadow-lg">
+
+            <div class="card-body text-center p-5">
+
+                <h1 class="display-5 fw-bold text-success">
+
+                    Cliente SUAP
+
+                </h1>
+
+                <p class="lead mt-4">
+
+                    Sistema desenvolvido em Flask utilizando autenticação OAuth.
+
+                </p>
+
+                <p>
+
+                    Consulte suas informações acadêmicas de forma simples e rápida.
+
+                </p>
+
+                <hr>
+
+                <p>
+
+                    ✔ Perfil completo
+
+                </p>
+
+                <p>
+
+                    ✔ Foto do usuário
+
+                </p>
+
+                <p>
+
+                    ✔ Boletim escolar
+
+                </p>
+
+                <p>
+
+                    ✔ Consulta por ano letivo
+
+                </p>
+
+                <a
+                    href="{{ url_for('login') }}"
+                    class="btn btn-success btn-lg mt-3">
+
+                    Entrar com SUAP
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+{% endblock %}
